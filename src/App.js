@@ -2,7 +2,7 @@ import React from 'react';
 import Box from "./box";
 import "./App.css";
 
-function App() {
+const App = ()=> {
   return (
     <>
       <input type="text"/><br/>
